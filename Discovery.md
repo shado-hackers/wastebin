@@ -1,6 +1,6 @@
 ---
-app_name: "Wastebin"
-title: "Wastebin"
+app_name: "hexbin"
+title: "hexbin"
 tagline: "Simple, easy text & code sharing."
 theme_color: "#468fff"
 git: "https://github.com/shado-hackers/wastebin"
@@ -18,5 +18,5 @@ Try the public demo [here](https://wastebin.deta.dev/doc/readme.md).
 - Filenames
 - File upload
 - API
-- [Open-source](https://github.com/lemonyte/wastebin)
+- [Open-source](https://github.com/shado-hackers/wastebin)
 - ~~Waifus?~~
