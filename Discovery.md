@@ -3,7 +3,7 @@ app_name: "Wastebin"
 title: "Wastebin"
 tagline: "Simple, easy text & code sharing."
 theme_color: "#468fff"
-git: "https://github.com/lemonyte/wastebin"
+git: "https://github.com/shado-hackers/wastebin"
 ---
 
 Wastebin is a simple, easy way to share text and code using links.
