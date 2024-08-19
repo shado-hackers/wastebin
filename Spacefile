@@ -1,6 +1,6 @@
 # Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
 v: 0
-icon: ./static/icon.png
+icon: ./static/hex.png
 micros:
   - name: hexbin
     src: ./
